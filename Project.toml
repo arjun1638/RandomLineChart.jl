@@ -1,0 +1,13 @@
+name = "RandomLineChart"
+uuid = "0a97af4f-d646-488f-98f2-14c7214a2a9a"
+authors = ["arjun1638 <arjun1638@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
